@@ -1,6 +1,9 @@
 this is first comment
 this is feature2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> f1
 =======
 >>>>>>> f1
